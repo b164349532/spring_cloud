@@ -1,5 +1,6 @@
 package cn.itcast.order.pojo;
 
+import com.itjy.pojo.User;
 import lombok.Data;
 
 @Data

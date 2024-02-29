@@ -36,6 +36,13 @@
             <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
         </dependency>
 
+        <!--feign的统一api-->
+
+        <dependency>
+            <groupId>com.itjy</groupId>
+            <artifactId>feign-api</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 
 
 
